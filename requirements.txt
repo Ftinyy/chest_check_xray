@@ -1,0 +1,9 @@
+streamlit
+torch
+Pillow
+numpy
+matplotlib
+pandas
+scikit-learn
+seaborn
+qrcode
